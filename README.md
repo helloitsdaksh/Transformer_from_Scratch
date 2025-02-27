@@ -1,6 +1,5 @@
 # **Transformer_from_Scratch**  
-A **Decoder-Only Transformer** built from scratch using **PyTorch** and **PyTorch Lightning**, inspired by models like **GPT**.  
-This implementation includes **Multi-Head Attention, Feed-Forward Networks, Positional Encoding, and Layer Normalization** for efficient text generation.  
+A **Decoder-Only Transformer** built from scratch using **PyTorch** and **PyTorch Lightning**, inspired by models like **GPT**. This implementation includes **Multi-Head Attention, Feed-Forward Networks, Positional Encoding, and Layer Normalization** for efficient text generation.  
 
 ---
 
